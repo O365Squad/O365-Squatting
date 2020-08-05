@@ -15,7 +15,7 @@ Make sure you have installed the following tools:
 
 Python 2 or later.
 
-pip (sudo apt-get install python3-pip).
+pip (sudo apt-get install python2-pip).
 
 ## Installing
 

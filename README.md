@@ -54,7 +54,7 @@ $ python O365Squatting.py -c defcon.org
 
 ## Authors
 
-J. Francisco Bolivar – [@jfran_cbit](https://twitter.com/JFran_cbit)
+:black_medium_small_square: J. Francisco Bolivar – [@jfran_cbit](https://twitter.com/JFran_cbit)
 
-Jose Miguel Gómez-Casero Marichal – [@GcmMiguel](https://twitter.com/JGcmMiguel) 
+:black_medium_small_square: Jose Miguel Gómez-Casero Marichal – [@GcmMiguel](https://twitter.com/JGcmMiguel) 
 

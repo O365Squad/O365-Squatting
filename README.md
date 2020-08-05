@@ -10,7 +10,7 @@ Please, follow the instructions below for installing and run O365 Squatting
 ## Pre-requisites
 Make sure you have installed the following tools:
 
-Python 3.0 or later.
+Python 2 or later.
 
 pip3 (sudo apt-get install python3-pip).
 

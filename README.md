@@ -1,4 +1,7 @@
 # O365-Squatting
+
+O365 Squatting first version was presented at Defcon 28 #Safemode
+
 # Introduction
 0365 Squatting is a python tool created to identify that domains before the attack start. The tool can create a list of typo squatted domains based on the domain provided by the user and check all the domains against O365 infrastructure, (these domains will not appear on a DNS request).
 

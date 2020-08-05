@@ -36,7 +36,7 @@ Parameters and examples of use.
 
 ![alt text](https://github.com/O365Squad/O365-Squatting/blob/master/img/options.png)
 
--d or -c are mandatory
+-d , -c, -f or -h are mandatory
 
 ## Examples
 

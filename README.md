@@ -41,6 +41,8 @@ $ python O365Squatting.py -d defcon.org
 
 $ python O365Squatting.py -d defcon.org -o json
 
+$ python O365Squatting.py -c defcon.org 
+
 
 
 ## Screenshots

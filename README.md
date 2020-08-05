@@ -8,7 +8,7 @@ O365 Squatting is a python tool created to identify risky domains before the att
 At the same time, this tool can also be used by red teams and bug hunters, one of the classic attacks is the domain takeover based on the tool findings.
 
 ## Getting Started
-Please, follow the instructions below for installing and run O365 Squatting
+Please, follow the instructions below for installing and run O365 Squatting.
 
 ## Pre-requisites
 Make sure you have installed the following tools:

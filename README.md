@@ -43,9 +43,9 @@ $ python O365Squatting.py -d defcon.org -o json
 
 
 
-##Screenshots
+## Screenshots
 
-##Authors
+## Authors
 
 J. Francisco Bolivar – @jfran_cbit
 

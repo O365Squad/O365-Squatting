@@ -30,7 +30,7 @@ $ python o365squatting.py -h
 Parameters and examples of use.
 
 ### Parameters
-![alt text](https://raw.githubusercontent.com/O365Squad/O365-Squatting/img/options.png)
+![alt text](https://raw.githubusercontent.com/O365Squad/O365-Squatting/blob/master/img/options.png)
 
 ## Examples
 

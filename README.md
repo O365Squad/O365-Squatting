@@ -50,6 +50,8 @@ $ python O365Squatting.py -c defcon.org
 
 ## Screenshots
 
+![alt text](https://github.com/O365Squad/O365-Squatting/blob/master/img/check.png)
+
 ## Authors
 
 J. Francisco Bolivar – [@jfran_cbit](https://twitter.com/JFran_cbit)

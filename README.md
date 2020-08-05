@@ -16,15 +16,15 @@ pip3 (sudo apt-get install python3-pip).
 
 ## Installing
 
-$ git clone https://github.com/O365Squat / .git
+$ git clone https://github.com/O365Squad/O365-Squatting.git
 
 $ cd O365-Squatting
 
-$ pip3 install -r requirements.txt
+$ pip install -r requirements.txt
 
 ### Running
 
-$ python3 O365Squatting.py -h
+$ python o365squatting.py -h
 
 ## Usage
 Parameters and examples of use.
@@ -37,9 +37,9 @@ Parameters and examples of use.
 
 ## Examples
 
-$ python3 O365Squatting.py -d defcon.org
+$ python O365Squatting.py -d defcon.org
 
-$ python3 O365Squatting.py -d defcon.org -o JSON
+$ python O365Squatting.py -d defcon.org -o JSON
 
 
 

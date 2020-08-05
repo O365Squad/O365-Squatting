@@ -52,7 +52,7 @@ $ python o365squatting.py -c defcon.org
 
 ![alt text](https://github.com/O365Squad/O365-Squatting/blob/master/img/check.png)
 
-![alt text](https://github.com/O365Squad/O365-Squatting/blob/master/img/json.png)
+![alt text](https://github.com/O365Squad/O365-Squatting/blob/master/img/json.PNG)
 
 ### Authors
 

@@ -1,6 +1,6 @@
 # O365-Squatting
 
-O365 Squatting first version was presented at [Defcon 28](https://www.defcon.org/) #Safemode
+O365 Squatting first version was presented at [Defcon 28](https://www.defcon.org/) #Safemode, you can watch the talk on below link:
 
 [VIDEO](https://www.twitch.tv/videos/704253092?t=0h17m20s)
 

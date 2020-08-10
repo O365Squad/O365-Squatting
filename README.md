@@ -60,5 +60,6 @@ $ python o365squatting.py -c defcon.org
 
 :black_medium_small_square: J. Francisco Bolivar – [@jfran_cbit](https://twitter.com/JFran_cbit)
 
-:black_medium_small_square: Jose Miguel Gómez-Casero Marichal – [@GcmMiguel](https://twitter.com/JGcmMiguel) 
+:black_medium_small_square: Jose Miguel Gómez-Casero Marichal – [@GcmMiguel](https://twitter.com/GcmMiguel
+) 
 

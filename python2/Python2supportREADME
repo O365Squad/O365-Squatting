@@ -1,0 +1,9 @@
+Some users reported us some issues running O365Squatting using python2.
+
+In this case, to use the tool you have to install pycef module and edit module's core by removing F-string casting in pycef on the following line:
+      logger.warning(f'Blank field(s) in CEF header. Is it valid CEF format?')
+      
+So the new code should look like this:
+      logger.warning('Blank field(s) in CEF header. Is it valid CEF format?')
+
+- O365Squad
